@@ -1,0 +1,3 @@
+block_id = ./config(blockid)
+block = block_id(./id)
+global block;
