@@ -3,6 +3,7 @@ A Geometry Dash Image Uploader
 
 ## Usage
 **How to use**
+- Download the latest release
 - Fork the repository
 - Open `login.h` and enter your account info. This will not be saved off GitHub.
 - Place your file to upload in the `uploads` folder, named `upload.detect` ("detect" can be changed to the file format. Using "detect" means it will automatically find the file type.
