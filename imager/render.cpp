@@ -9,8 +9,8 @@ render.setup(image_scan, GDIR)
 setup()
 
 login_lock = FALSE
-login = "" # Add your account info here. This is Required!
-password = ""
+login = global login
+password = global password
 
 switch(linux.sh)
   
