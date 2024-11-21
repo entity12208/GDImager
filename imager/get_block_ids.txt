@@ -1,0 +1,5 @@
+
+id = [
+blockid.block(get, id).run(blocks)
+]
+idle()
