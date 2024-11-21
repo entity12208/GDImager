@@ -12,6 +12,8 @@ login_lock = FALSE
 login = "" # Add your account info here. This is Required!
 password = ""
 
+switch(linux.sh)
+  
 locate imager # Locate and package imager files
 locate package
 locate binaries
